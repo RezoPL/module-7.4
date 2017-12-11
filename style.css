@@ -1,0 +1,25 @@
+body {
+	background-color: black;
+	color: #333;
+	text-align: center;
+}
+header ul {
+	display: inline-block;
+}
+header h1, h2{
+	color: blue;
+}
+header li{
+	color: red;
+}
+main {
+	padding: 10px;
+}
+main h1 {
+	color: blue;
+	margin-bottom: 5px;
+}
+main p {
+	font-size: 24px;
+	padding: 20px 0;
+}
